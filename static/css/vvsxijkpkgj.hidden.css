@@ -1,0 +1,15 @@
+/* 去掉测试网 */
+._3XUOeAoddNfEwQHKBafi7y.Gkcvqvf5o0nqyXgyh5PtL[href='https://trade.stage.dydx.exchange'] {
+  display: none !important;
+}
+/* 去掉头部帮助 */
+._2mfH8m1iB_VZ-sLti0KBbS div:first-child ._3uZQDc9OpwqP7b99Be4vlc {
+  display: none !important;
+}
+
+._2lYA4Crb4Y4B7hAuLadaDG ._26-QBzB2iVkzH8bn17twVD[role="button"][tabindex="0"] {
+  display: none !important;
+}
+.sc-dIsUp.jEEywD {
+  display: none !important;
+}
