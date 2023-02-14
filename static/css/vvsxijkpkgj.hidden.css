@@ -13,3 +13,19 @@
 .sc-dIsUp.jEEywD {
   display: none !important;
 }
+
+/* 钱包连接弹窗  文案 */
+._2wNKOXAgdCkxKsiBDbHoA8._2wZaHSB97Te-ugQ3tWUYlj .sc-jQAxuV.gWQZCx .sc-bTDOke.dXiuJH .sc-jUfyBS.eSyZIh{
+  display: none;
+}
+/* 钱包连接弹窗 搜索*/
+._2wNKOXAgdCkxKsiBDbHoA8._2wZaHSB97Te-ugQ3tWUYlj .sc-jQAxuV.gWQZCx ._2QkD0jruu4lcYgNF7NCFWJ._2ytuhSsxhb07-7ocnUkfPh._1dGy5cRE67Jzu74Rcmfv3F {
+  display: none;
+}
+/* 钱包连接弹窗 非metamask钱包*/
+._2wNKOXAgdCkxKsiBDbHoA8._2wZaHSB97Te-ugQ3tWUYlj .sc-bdnxRM.jurdFw:not(:first-child) {
+  display: none;
+}
+._2wNKOXAgdCkxKsiBDbHoA8._2wZaHSB97Te-ugQ3tWUYlj .sc-exqIPC.leuDbu {
+  display: none;
+}
